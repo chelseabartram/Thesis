@@ -1,0 +1,72 @@
+%=====================%
+\chapter{Introduction}
+%=====================%
+%-------------------------------------------------------------------%
+\section{Fundamental Symmetries}
+%-------------------------------------------------------------------%
+
+Fundamental symmetries provide a mechanism for understanding the world. There are three discrete fundamental symmteries. Their respective operators are C, which stands for ``Charge'', P, which stands for ``Parity'', and T, which stands for ``Time''. For a long time it was assumed that these symmetries were absolutely conserved. Indeed, they are quite intuitive. This worldview was disrupted when partiy violation was first discovered by CS Wu. Paritry symmetry went unquestioned until 1956 when T.D. Lee and C.N. Yang postulated its possibility and noticed evidence for its existence was gravely lacking~\cite{PhysRev.104.254}. C.S. Wu demonstrated the existence of partiy violation with her famous cobalt-60 experiment, in which electrons from beta decay were emitted in a preferential direction relative to the spin orientation of the cobalt nuclei~\cite{PhysRev.105.1413}. Parity was violated an violated maximally. The effect was substantial. Nevertheless, deep-seated assumptions about symmetries, perhaps based on instinct, were hard to displace. The belief that combinations of symmetry operators must be valid symmetries persisted. The union of charge and partity, or CP symmetry was the next tenet to be challenged when in 1964, Cronin and Fitch discovered CP violation in the decay of kaons ~\cite{PhysRevLett.13.138}. The discovery of CP violation has since prompted physicists to search for other symmtery violating effects, resulting in the discovery of CP violation in both D and B meson oscillations ~\cite{PhysRevLett.87.091801}.
+Discoveries of symmetry violations actually provide an explanation for other cosmological phenomena. In 1967, Andrei Sakharov pointed ou that CP violation is necessary to explain the existing baryon asymmetry in the universe ~\cite{0038-5670-34-5-A08}. These are the so-called Sakharov conditions and they must have manifested themselves in the early universe in order to produce the matter-antimatter asymmetry. Though numerous examples of symmetry violations have been found, the combination of all three symmetry operators, CPT, is generally believed to be a conserved symmetry. CP-violation has only been observed in the weak interactions of the quark sector. Its existence in the lepton sector has not been confirmed experimentally. Notably, long-baseline neutrino experiments are being constructed at great cost to look for CP-violation in the neutrinos. Experiments such as DUNE (Deep Underground Neutrino Experiment) require a baseline which runs from Illinois to South Dakota and a collaboration of more than 525 scientists and engineers~\cite{LBNE}. Other groups have been searching for CP-violation in the charged lepton sector as well. For example, if the electron has an electric dipole moment, this would be a sign of T violation, which is equivalent to CP-violation, provided CPT is conserved ~\cite{PhysRevLett.100.120801}.
+
+
+%-------------------------------------------------------------------%
+\section{Another Section}
+\label{sec:mjd}
+
+
+Our experiment will search for CP-violation in positronium. Positronium consists of two charged leptons: an
+electron and positron. Unlike experiments such as DUNE, however, our experiment occupies much less space,
+costs orders of magnitude less, and employs only a few people. CALIOPE is a table-top nuclear experiment
+which will be assembled at TUNL, the Triangle Universities Nuclear Laboratory. Specically, we propose to
+search for CP-violating angular correlations between the three gamma rays emitted from ortho-positronium
+decay and the spin of the positronium. Such CP-violating correlations are predicted within the Standard
+Model, but at levels far below our detection limit
+
+\section{Previous Experiments}
+\label{sec:mjd}
+Previous experiments studying the angular correlations in ortho-positronium decay did not observe any CPviolation.
+The rst measurement was made by M. Skalsey and J.V. House in 1991 [10]. This experiment
+found no CP amplitude at the 1:5% level. In 2010, Yamazaki, Namba, Asai, and Kobayashi measured an
+amplitude of a CP-violating asymmetry consistent with zero at a sensitivity of 2:10􀀀3 [9]. This result
+was a factor of 7 improvement in the limit from the previous experiment. Our experiment will use an array
+with much greater angular coverage, increasing our statistics by a factor of 25. In addition, we will be
+implementing several features to improve systematic uncertainties over previous experiments. These are
+described below. Although it is hard to tell what our ultimate sensitivity improvement will be over previous
+experiments, we can conservatively estimate it to be a factor of 10 or more.2
+%-------------------------------------------------------------------%
+
+\section{Theory of Positronium}
+Positronium was first discovered by Martin Deutsch at MIT in 1951 [11]. He was able to show that the time
+it took for gamma rays emitted from the positronium source to reach the detector was longer than would be
+expected from ordinary annihilation, implying the existence of a long-lived bound state.
+Positronium's energy levels can be obtained by modeling it like the hydrogen atom but replacing the
+mass of the proton with the reduced mass of the electron and positron. Unlike the hydrogen atom, however,
+positronium is unstable and decays into gamma rays after a nite amount of time. Like the hydrogen atom,
+positronium also comes in both a triplet (S = 1) and singlet (S = 0) state. For this experiment, we are only
+concerned with positronium in its ground state where n = 1.
+The number of gamma rays emitted is determined by charge conjugation invariance. Charge conjugation
+parity in positronium is given as C = (􀀀1)s+l, where s is the spin quantum number and l is the orbital
+angular momentum number. In our system, positronium decays from the l = 0 state, so the C parity is
+􀀀1 for the triplet state and 1 for the singlet state. C parity is multiplicative, and the photon has odd
+charge conjugation parity. Therefore, the triplet state, also known as ortho-positronium, decays into three
+photons with odd charge conjugation parity and the singlet state, or para-positronium, decays into two
+photons with even charge conjugation parity. While it is possible for ortho-positronium to decay into a
+larger, odd number of photons (and likewise, para-positronium into a larger, even number of photons), this
+rarely happens because the branching ratios for these decays are greatly suppressed.
+Number of photons aside, the triplet state and singlet state can also be easily dierentiated by their
+lifetimes. The triple state has a much smaller phase space and an extra vertex that contributes an extra
+factor of the ne structure constant. These two features extend the lifetime of the triplet state (142 ns) to
+nearly a factor of 1000 greater than that of the singlet state (125 ps).
+% ------------  figure start  
+% from M. Busch
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.7\textwidth]{/Users/cbartram/Downloads/example_diss/1_introduction/figures/mjd_cryostat.pdf}
+\caption[%
+\textsc{Majorana Demonstrator} cryostat drawing
+]{%
+Drawing of a \textsc{Majorana Demonstrator} cryostat. Strings of germanium crystals (turquoise) hang from the cryostat cold plate.
+\label{fig:mjd_cryostat}} 
+\end{figure}
+% ------------  figure end 
+

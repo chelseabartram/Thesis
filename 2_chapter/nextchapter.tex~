@@ -1,0 +1,36 @@
+%=====================%
+\chapter{Simulation}
+%=====================%
+%-------------------------------------------------------------------%
+\section{Geant Simulation}
+%-------------------------------------------------------------------%
+
+Using Geant4 [18], we have created a replica of the APEX geometry for our simulation. Most of the code
+for the detector construction was written by Stephen Daigle. Some improvements have recently been made
+by an undergraduate, Chiara Salemi, who is working with our group. We have added additional components
+to the simulation, specically the electromagnet and a holder containing the source and aerogel. I have
+implemented one possible source holder in the simulation (Figure 11), complete with the positron source
+(22Na) deposited on kapton foil and sandwiched between pieces of scintillator and aerogel. In the simulation,
+as in the physical world, a positron exiting the source is tagged and then scatters within the aerogel until
+it loses enough kinetic energy to form positronium. The aluminium source and all of its constituents were
+incorporated into the simulation this past year.
+
+
+%-------------------------------------------------------------------%
+\section{Another Section}
+\label{sec:mjd}
+%-------------------------------------------------------------------%
+
+% ------------  figure start  
+% from M. Busch
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.7\textwidth]{/Users/cbartram/Downloads/example_diss/1_introduction/figures/mjd_cryostat.pdf}
+\caption[%
+\textsc{Majorana Demonstrator} cryostat drawing
+]{%
+Drawing of a \textsc{Majorana Demonstrator} cryostat. Strings of germanium crystals (turquoise) hang from the cryostat cold plate.
+\label{fig:mjd_cryostat}} 
+\end{figure}
+% ------------  figure end 
+

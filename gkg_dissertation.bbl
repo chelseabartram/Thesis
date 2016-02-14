@@ -1,0 +1,46 @@
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{1}
+
+\bibitem{PhysRev.104.254}
+T.~D. Lee and C.~N. Yang, ``Question of Parity Conservation in Weak
+  Interactions,'' \href{http://dx.doi.org/10.1103/PhysRev.104.254}{{\em Phys.
+  Rev.} {\bfseries 104} (Oct, 1956) 254--258}.
+  \url{http://link.aps.org/doi/10.1103/PhysRev.104.254}.
+
+\bibitem{PhysRev.105.1413}
+C.~S. Wu, E.~Ambler, R.~W. Hayward, D.~D. Hoppes, and R.~P. Hudson,
+  ``Experimental Test of Parity Conservation in Beta Decay,''
+  \href{http://dx.doi.org/10.1103/PhysRev.105.1413}{{\em Phys. Rev.} {\bfseries
+  105} (Feb, 1957) 1413--1415}.
+  \url{http://link.aps.org/doi/10.1103/PhysRev.105.1413}.
+
+\bibitem{PhysRevLett.13.138}
+J.~H. Christenson, J.~W. Cronin, V.~L. Fitch, and R.~Turlay, ``Evidence for the
+  $2\pi$ Decay of the $K_{2}^{0}$ Meson,''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.13.138}{{\em Phys. Rev. Lett.}
+  {\bfseries 13} (Jul, 1964) 138--140}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevLett.13.138}.
+
+\bibitem{PhysRevLett.87.091801}
+B.~e.~a. Aubert, ``Observation of $\mathit{CP}$ Violation in the
+  ${\mathit{B}}^{0}$ Meson System,''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.87.091801}{{\em Phys. Rev. Lett.}
+  {\bfseries 87} (Aug, 2001) 091801}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevLett.87.091801}.
+
+\bibitem{0038-5670-34-5-A08}
+A.~D. Sakharov, ``Violation of CP in variance, C asymmetry, and baryon
+  asymmetry of the universe,'' {\em Soviet Physics Uspekhi} {\bfseries 34}
+  no.~5, (1991) 392. \url{http://stacks.iop.org/0038-5670/34/i=5/a=A08}.
+
+\bibitem{LBNE}
+``LBNE collaboration.'' \url{http://lbne.fnal.gov/}.
+\newblock Accessed: 2015-03-25.
+
+\bibitem{PhysRevLett.100.120801}
+D.~Hanneke, S.~Fogwell, and G.~Gabrielse, ``New Measurement of the Electron
+  Magnetic Moment and the Fine Structure Constant,''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.100.120801}{{\em Phys. Rev.
+  Lett.} {\bfseries 100} (Mar, 2008) 120801}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevLett.100.120801}.
+
+\end{thebibliography}\endgroup
